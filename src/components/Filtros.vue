@@ -24,13 +24,17 @@
         </select>
 
     </div>
-    
-    <!-- <div class="mb-5"> 
-    
-        <input v-model="tipo" type="text" class=" col-6">
-        <input type="submit" @click="filtrar" value="Filtrar.">
 
-    </div> -->
+    <form @submit.prevent="filtrar">
+        
+        <div class="mb-5"> 
+    
+            <input v-model="tipo" type="text" class=" col-6">
+            <!-- <input type="submit" @click="filtrar" value="Filtrar."> -->
+
+        </div>
+
+    </form>
 
 </template>
 

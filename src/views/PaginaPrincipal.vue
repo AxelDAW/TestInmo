@@ -19,8 +19,8 @@ export default {
     methods: {
 
         recibirFiltro( tipo ){
-    
-            this.propiedadesFiltradas = (dbPropiedades.propiedades).filter( k => { return k.tipo == tipo } );
+            
+            this.propiedadesFiltradas = (dbPropiedades.propiedades).filter( (k)=>{ return k.tipo == tipo } );
 
         }
 
@@ -38,7 +38,7 @@ export default {
         return {
 
             propiedades: [],
-            propiedadesFiltradas: []
+            propiedadesFiltradas: [],
 
         }
     }
