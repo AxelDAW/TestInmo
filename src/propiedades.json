@@ -1,0 +1,65 @@
+{
+    "propiedades": [
+      {
+        "id": 1,
+        "tipo": "casa",
+        "direccion": "Calle San Pedro 123",
+        "descripcion": "Pequeña propiedad en calle centrica de la ciudad.",
+        "tamaño_m2": 120,
+        "habitaciones": 3,
+        "baños": 2,
+        "precio": 150000
+      },
+      {
+        "id": 2,
+        "tipo": "casa",
+        "direccion": "Avenida Siempreviva 742",
+        "descripcion": "Propiedad mediana en la periferia de la ciudad.",
+        "tamaño_m2": 140,
+        "habitaciones": 4,
+        "baños": 3,
+        "precio": 180000
+      },
+      {
+        "id": 3,
+        "tipo": "chalet",
+        "direccion": "Camino del Sol 5",
+        "descripcion": "Chalet lujoso a 10 minutos del mar con vistas a este.",
+        "tamaño_m2": 250,
+        "habitaciones": 5,
+        "baños": 4,
+        "precio": 350000
+      },
+      {
+        "id": 4,
+        "tipo": "chalet",
+        "direccion": "Calle de la Luna 8",
+        "descripcion": "Chalet de ultima construccion con garaje y piscina privados.",
+        "tamaño_m2": 300,
+        "habitaciones": 6,
+        "baños": 5,
+        "precio": 420000
+      },
+      {
+        "id": 5,
+        "tipo": "piso",
+        "direccion": "Plaza Mayor 10, 4A",
+        "descripcion": "Pequeño piso situado cerca de la estacion de tren.",
+        "tamaño_m2": 80,
+        "habitaciones": 2,
+        "baños": 1,
+        "precio": 120000
+      },
+      {
+        "id": 6,
+        "tipo": "piso",
+        "direccion": "Calle Gran Via 22, 3B",
+        "descripcion": "Piso mediano con todos los comercios cerca.",
+        "tamaño_m2": 90,
+        "habitaciones": 3,
+        "baños": 2,
+        "precio": 140000
+      }
+    ]
+  }
+  
